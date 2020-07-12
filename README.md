@@ -1,2 +1,1 @@
-# ddos-machine-site
-#Linux
+Coder : Seyit Mehmet Kiren
